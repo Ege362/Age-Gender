@@ -1,1 +1,1 @@
-git clone <C:\Users\egeig\OneDrive\Masaüstü\Egeİğde-age-gender-data-collector-master.zip>
+ <C:\Users\ege\One\Masaüstü\Egeİğde-age-gender.zip>
